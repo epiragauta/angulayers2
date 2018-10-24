@@ -1,0 +1,16 @@
+{
+  "name": "angulayers2",
+  "description": "Openlayers2 helper for angular",
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "main": "",
+  "authors": [
+    "Edwin Piragauta Vargas <edwin.piragauta@skaphe.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "openlayers"
+  ],
+  "homepage": "https://github.com/epiragauta/angulayers2"
+}

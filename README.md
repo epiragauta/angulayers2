@@ -1,4 +1,4 @@
-[Angulayers](http://github.com/jacruzca/angulayers/)
+[Angulayers2](https://github.com/epiragauta/angulayers2/)
 =========
 
-Openlayers helper for angular
+Openlayers2 helper for angular
