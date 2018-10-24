@@ -14,7 +14,7 @@ module.exports = function (grunt) {
             },
             dist: {
                 files: {
-                    'dist/angulayers.min.js': ['dist/angulayers.js']
+                    'dist/angulayers2.min.js': ['dist/angulayers2.js']
                 }
             }
         },
@@ -24,7 +24,7 @@ module.exports = function (grunt) {
                 src: [
                     'src/**/*.js'
                 ],
-                dest: 'dist/angulayers.js'
+                dest: 'dist/angulayers2.js'
             }
         }
     });
